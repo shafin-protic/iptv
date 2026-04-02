@@ -75,16 +75,16 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="Kolkata TV@SD" tvg-logo="https://i.postimg.cc/MTZFrjCt/kolkata-tv.png group-title="Kalkata News",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="TV9 Bangla@SD" tvg-logo="https://i.postimg.cc/qqJ6Kp6P/asff.jpg group-title="Kalkata News",TV9 Bangla
-https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8?ads.vf=iJMugprTh74
 #EXTINF:-1 tvg-id="News18 Bangla@SD" tvg-logo="https://i.postimg.cc/RVxbjyxN/asfasf.png group-title="Kalkata News",News18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="ABP Ananda@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png group-title="Kalkata News",ABP Ananda
+#EXTINF:-1 tvg-id="ABP Ananda@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x54 group-title="Kalkata News",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 tvg-id="R Bangla@SD" tvg-logo=" group-title="Kalkata News",R Bangla
 https://tvsen5.aynaott.com/R_Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Republic Bangla@SD" tvg-logo="https://i.postimg.cc/q7WG26kg/dgsg.png group-title="Kalkata News",Republic Bangla
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
-#EXTINF:-1 tvg-id="Zee 24 Ghanta@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png group-title="Kalkata News",Zee 24 Ghanta
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 tvg-id="Zee 24 Ghanta@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540 group-title="Kalkata News",Zee 24 Ghanta
 http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
 #EXTINF:-1 tvg-id="HighNews@SD" tvg-logo="https://i.postimg.cc/Sxr5Lr58/dasgg.jpg group-title="Kalkata News",HighNews
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
