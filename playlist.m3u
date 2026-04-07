@@ -47,7 +47,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="Desh TV@SD" tvg-logo="https://images.seeklogo.com/logo-png/60/2/desh-tv-logo-png_seeklogo-606364.png" group-title="Bangladesh",Desh TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
-#EXTINF:-1 tvg-id="Bijoy TV@SD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png" group-title="Bangladesh",Bijoy TV
+#EXTINF:-1 tvg-id="Bijoy TV@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5h2rW-OwrD_J4wZUztePangnyyd-85kghw&s" group-title="Bangladesh",Bijoy TV
 http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="Asian TV@SD" tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="Bangladesh",Asian TV
 http://103.229.254.25:7001/play/a063/index.m3u8
