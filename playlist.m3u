@@ -41,7 +41,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="Maasranga TV@SD" tvg-logo="https://i.postimg.cc/GhSkJ8ry/cropped-Logo-for-website-1.jpg" group-title="Bangladesh",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
-
+#EXTINF:-1 tvg-id="NEXUS TV@SD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png" group-title="Bangladesh",NEXUS TV   
+https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel 9@SD" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg" group-title="Bangladesh",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="Desh TV@SD" tvg-logo="https://images.seeklogo.com/logo-png/60/2/desh-tv-logo-png_seeklogo-606364.png" group-title="Bangladesh",Desh TV
