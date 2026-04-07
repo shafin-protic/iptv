@@ -9,22 +9,24 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="Channel 24@SD" tvg-logo="https://images.seeklogo.com/logo-png/42/2/channel-24-logo-png_seeklogo-424910.png" group-title="Bangladesh",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="Independent TV@SD" tvg-logo="https://i.pinimg.com/736x/8a/ee/0e/8aee0e3d926b0406ec1091acf09346bd.jpg" group-title="Bangladesh",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="Jamuna TV@SD" tvg-logo="https://i.pinimg.com/1200x/ac/77/97/ac7797ddb5afad6326689b90fafab611.jpg" group-title="Bangladesh",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="Star News@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQjF6ug1nuWWIN5F8UohpV6fVEyjXMeKAqoQ&s group-title="Bangladesh",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 #EXTINF:-1 tvg-id="News 24@SD" tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="Bangladesh",News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-id="DBC News@SD" tvg-logo="https://i.postimg.cc/vZZGMT6C/dbc.png" group-title="Bangladesh",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="ATN News@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atn_news_bd.png" group-title="Bangladesh",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="NTV@SD" tvg-logo="https://images.seeklogo.com/logo-png/39/2/ntv-channel-logo-png_seeklogo-396286.png" group-title="Bangladesh",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="Independent TV@SD" tvg-logo="https://i.pinimg.com/736x/8a/ee/0e/8aee0e3d926b0406ec1091acf09346bd.jpg" group-title="Bangladesh",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="BanglaVision@SD" tvg-logo="https://images.seeklogo.com/logo-png/51/2/bangla-vision-tv-channel-logo-png_seeklogo-513051.png" group-title="Bangladesh",BanglaVision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="NTV@SD" tvg-logo="https://images.seeklogo.com/logo-png/39/2/ntv-channel-logo-png_seeklogo-396286.png" group-title="Bangladesh",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="Ekushey TV@SD" tvg-logo="https://images.seeklogo.com/logo-png/39/2/ekushe-tv-etv-logo-png_seeklogo-396361.png" group-title="Bangladesh",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http:\\210.4.72.204\hls-live\livepkgr\_definst_\liveevent\livestream3.m3u8
 #EXTINF:-1 tvg-id="Channel I@SD" tvg-logo="https://images.seeklogo.com/logo-png/53/2/channel-i-logo-png_seeklogo-532023.png" group-title="Bangladesh",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="Gazi TV@SD" tvg-logo="https://i.postimg.cc/V6h7jTGK/Gtv-logo-freekaj.png" group-title="Bangladesh",Gazi TV
@@ -39,6 +41,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-id="Maasranga TV@SD" tvg-logo="https://i.postimg.cc/GhSkJ8ry/cropped-Logo-for-website-1.jpg" group-title="Bangladesh",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
+
 #EXTINF:-1 tvg-id="Channel 9@SD" tvg-logo="https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg" group-title="Bangladesh",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="Desh TV@SD" tvg-logo="https://images.seeklogo.com/logo-png/60/2/desh-tv-logo-png_seeklogo-606364.png" group-title="Bangladesh",Desh TV
@@ -69,14 +72,14 @@ https:\\d2dsoyvkr33m05.cloudfront.net\index_1.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="Kolkata TV@SD" tvg-logo="https://i.postimg.cc/MTZFrjCt/kolkata-tv.png" group-title="Kalkata News",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-#EXTINF:-1 tvg-id="Akaash Aat@SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Kalkata News",Akaash Aat
-https://cdn-4.pishow.tv/live/969/969_1.m3u8
 #EXTINF:-1 tvg-id="HighNews@SD" tvg-logo="https://i.postimg.cc/Sxr5Lr58/dasgg.jpg" group-title="Kalkata News",HighNews
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-id="R plus@SD" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="Kalkata News",R plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-id="Ananda Barta@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Anand_Barta.png group-title="Kalkata News",Ananda Barta
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
+#EXTINF:-1 tvg-id="Akaash Aat@SD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Kalkata News",Akaash Aat
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-id="Republic Bharat@SD" tvg-logo="https://i.postimg.cc/Z5bZhCz6/sdgedg.png" group-title="Hindi News",Republic Bharat
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="Aaj Tak HD@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="Hindi News",Aaj Tak HD
