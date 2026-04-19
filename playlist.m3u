@@ -67,12 +67,14 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ABP Ananda@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x54" group-title="Kalkata News",ABP Ananda
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-id="News18 Bangla@SD" tvg-logo="https://i.postimg.cc/RVxbjyxN/asfasf.png" group-title="Kalkata News",News18 Bangla
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee 24 Ghanta@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" group-title="Kalkata News",Zee 24 Ghanta
-https:\\d2dsoyvkr33m05.cloudfront.net\index_1.m3u8
 #EXTINF:-1 tvg-id="Calcutta News@SD" tvg-logo="https://i.postimg.cc/hvkMgJ5C/culahysvb.jpg" group-title="Kalkata News",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 tvg-id="News18 Bangla@SD" tvg-logo="https://i.postimg.cc/RVxbjyxN/asfasf.png" group-title="Kalkata News",News18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="New Time Bangla@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png" group-title="Kalkata News",New Time Bangla
+https://yuppparoriglin.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?ads.channel=237&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1776587781~exp=1776609381~acl=!*/181224/smil:newstime.smil/*!/payload/yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_115_-1/*~data=yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_115_-1~hmac=fb2c4c65c436931292e956a865062fded0e03146080999d6be15181fcc0b3188&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NewsTime&ads.language=BEN&ads.user=0
+#EXTINF:-1 tvg-id="Zee 24 Ghanta@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022KGXP.png?lock=720x540" group-title="Kalkata News",Zee 24 Ghanta
+https:\\d2dsoyvkr33m05.cloudfront.net\index_1.m3u8
 #EXTINF:-1 tvg-id="Kolkata TV@SD" tvg-logo="https://i.postimg.cc/MTZFrjCt/kolkata-tv.png" group-title="Kalkata News",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="HighNews@SD" tvg-logo="https://i.postimg.cc/Sxr5Lr58/dasgg.jpg" group-title="Kalkata News",HighNews
@@ -107,6 +109,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/in
 https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="Living India@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/LI_News.jpeg/revision/latest?cb=20191223182512" group-title="Hindi News",Living India
 https://stream.ottlive.co.in/livingindia/index.m3u8
+#EXTINF:-1 tvg-id="News 1 India@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png" group-title="Hindi News",News 1 India
+https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8?ads.channel=6628&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1776588113~exp=1776609713~acl=!*/fta/news1india/*!/payload/yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_129_-1/*~data=yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_129_-1~hmac=5ce09afd54babf8176338dbc2d202de3e999fc6a356a45dd79aed113dbee73c9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=News1India&ads.language=HIN&ads.user=0
 #EXTINF:-1 tvg-id="Zee Business@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png" group-title="Hindi News",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="ANB News@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANB_NEWS/images/LOGO_HD/image.png" group-title="Hindi News",ANB News
@@ -115,10 +119,18 @@ https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
 https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Darshan24@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Hindi News",Darshan24
 https://mumt05.tangotv.in/DARSHAN24/index.m3u8
+#EXTINF:-1 tvg-id="Naxtra News@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/naxatra-news-hindi.png" group-title="Hindi News",Naxtra News
+https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1776588333~exp=1776609933~acl=!*/230226/naxatranewshindi/*!/payload/yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_310_-1/*~data=yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_310_-1~hmac=db72f71cee31b75a59fa52e48d2ed2503d8c661751bb26fec37cea2b802fcf61&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=NaxatraNewsHindi&ads.language=HIN&ads.user=0
+#EXTINF:-1 tvg-id="Live Times@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yausbw.png" group-title="Hindi News",Live Times
+https://d2gvyg6lvauoko.cloudfront.net/230226/livetimes/playlist.m3u8?hdnts=st=1776588304~exp=1776609904~acl=!*/230226/livetimes/*!/payload/yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_307_-1/*~data=yupptvott_5_-1_b2e7723387ce4692_BD_114.130.180.95_yuppfast_2_channel_307_-1~hmac=06f83604ae8cee4b4bb8f06dce3583cc65e18b57a4d466f6885c986a1e2e1ab8&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=LIVETimes&ads.language=HIN&ads.user=0
 #EXTINF:-1 tvg-id="India Today@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="International",India Today
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV International@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png" group-title="International",NDTV International
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="News 9 Live@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/News9Live_TV_black.png" group-title="International",News 9 Live
+https://vg-tv9live.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/59d1f22f-8f3f-4458-bb05-204baca5a6ba/main.m3u8?hdnts=st=1776588980~exp=1776592580~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/59d1f22f-8f3f-4458-bb05-204baca5a6ba/*!yuppTVCom_5_-1_b2e7723387ce4692_BD_114.130.180.95/payload/yuppTVCom_5_-1_b2e7723387ce4692_BD_114.130.180.95/*~hmac=4b12c1f82d64e8a9a173bc83b6ffaa67f29deac82e368710ac71aaa784927593&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=6379&ads.channel_name=News9Live&ads.network_name=yupptv&ads.user=0
+#EXTINF:-1 tvg-id="DD News Int@SD" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/DDINDIA_TV_black.png" group-title="International",DD News Int
+https://yupplivegcp1.yuppcdn.net/120723/smil:ddindiahd.smil/playlist.m3u8?hdnts=st=1776589108~exp=1776592708~acl=!*/120723/smil:ddindiahd.smil/*!yuppTVCom_5_-1_b2e7723387ce4692_BD_114.130.180.95/payload/yuppTVCom_5_-1_b2e7723387ce4692_BD_114.130.180.95/*~hmac=7fc7f2a62befe7239d2ee24f8cd56fbed427a2c226e685842339ee189ec42c26&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=ENG&ads.content_genre=NEWS&ads.channel=5521&ads.channel_name=DDINDIA&ads.network_name=yupptv&ads.user=0
 #EXTINF:-1 tvg-id="WION@SD" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="International",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera@SD" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="International",Al Jazeera
@@ -205,6 +217,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-id="Pluto TV Retro Toons@SD" tvg-logo="https://i.imgur.com/YUQL0ki.png" group-title="Cartoon",Pluto TV Retro Toons
 https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+
 #EXTINF:-1 tvg-id="Madani TV@SD" tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Islamic",Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id="DD Bangla@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvIN1MX_pSqtpD-1l_vRUat3-XOgeUs3AFQ&s" group-title="Entertain",DD Bangla
@@ -227,3 +240,25 @@ https://mumt03.tangotv.in/ONTV/index.m3u8
 http://103.229.254.25:7001/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="BTV Chattogram@SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-chattogram-bd.png" group-title="Bangladesh",BTV Chattogram
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+#EXTINF:-1 tvg-id="Global TV@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsNNiPwPMEClmrhdWy6n03kK9O3Keq9lt29w&s" group-title="Bangladesh",Global TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Star Talk@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F073a7f1a-45ff-44a7-8b6b-4721a0eb01f9%2FStarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png" group-title="Documentary",Star Talk
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-664292a80e0ec7b4ce5eb28c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Ya-mjE3TAycS_xjhpwhz
+#EXTINF:-1 tvg-id="Popular Science@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc6bfca5e-58fe-4ed4-a87d-5e2ccde7f085%2FLogo_Art_-_Popular_Science_Dark_Backgrounds.png" group-title="Documentary",Popular Science
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656fb850cb7e8e6a9bc3f36e.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=yjPgAqMVy9tSrgsdpAh8
+#EXTINF:-1 tvg-id="TED@SD" tvg-logo="https://images.plex.tv/photo?size=large-1280&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Facb498f4-49a7-4221-b2a7-646302b670d7%2Fted.png" group-title="Documentary",TED
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ab5aabbb869dd0df6a3487.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ZD1aQ8U22vQcxWVF7sFX
+#EXTINF:-1 tvg-id="True History@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff37684ab-5eb6-48dd-8999-fbb6345689d4%2F1500x1000-DarkBG.png" group-title="Documentary",True History
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Pow4msXkDAannw-X_AHh
+#EXTINF:-1 tvg-id="WeatherSpy@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F3b058b7e-f61e-4257-ae0c-894dd648565f%2Fjukin_weatherspy_2_white.png" group-title="Documentary",WeatherSpy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=HDeeMsVLuBkBwFN7QZ7w
+#EXTINF:-1 tvg-id="5-Minute Crafts@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F52b33d5e-f48e-472d-896c-94759eccc1e4%2F5-Minute_Crafts_1500x1000_White.png" group-title="Documentary",5-Minute Crafts
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=quBws_Qa9qZ4dAXydHSy
+#EXTINF:-1 tvg-id="GUSTOTV@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fd%2Fepg%2Fchannels%2Flogos%2Fgracenote%2Fdab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Documentary",GUSTOTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=vjs1kictj9kmcqsrHP85
+#EXTINF:-1 tvg-id="Popai 1960@SD" tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FscFf0Y1eTPPm4BfNftPi7ckCCdF.jpg" group-title="Cartoon",Popai 1960
+https://vod.provider.plex.tv/library/parts/62be0add5e5872e950ed6c64-hls.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Z5UUtzN-ajmG4dEuF_tU
+#EXTINF:-1 tvg-id="TNA Wrestling@SD" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5d4f68c3-82af-45e7-b2c4-39aff69f3ce0%2FTNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="Sports",TNA Wrestling
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=hh5hMkoCsAyZr-xz8x6o
+#EXTINF:-1 tvg-id="Documentary+@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafo6i3Geemv8PRSVWNr5xlmtZorWG0U9_Yw&s" group-title="Documentary",Documentary+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=UTSAUxcem3-wdyUNHLnz
